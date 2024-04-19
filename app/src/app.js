@@ -6,5 +6,5 @@ const server = http.createServer((request, response) => {
 })
 
 const connectedServer = server.listen(8080, () => {
-    console.log('Server up')
+    console.log('Server arriba')
 })
